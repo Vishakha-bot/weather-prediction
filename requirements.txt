@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+scikit-fuzzy
+deap
+streamlit
+requests
+pip install -r requirements.txt
